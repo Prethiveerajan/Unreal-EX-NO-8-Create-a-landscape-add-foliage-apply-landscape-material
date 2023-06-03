@@ -71,7 +71,8 @@ To Create a landscape, add foliage, apply landscape material
 
   
 ## Terrain Created:
-![Uploading image.png…]()
+![image](https://github.com/Prethiveerajan/Unreal-EX-NO-8-Create-a-landscape-add-foliage-apply-landscape-material/assets/94233064/a527eff4-12cd-4ded-b156-97f6dfc1ce25)
+
 
  
 ## Results:
