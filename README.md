@@ -5,6 +5,7 @@ Create a landscape, add foliage, apply landscape material
 To Create a landscape, add foliage, apply landscape material
 
 ## Procedure:
+```
 1.	Create a landscape in the blueprint:
 •	Open the blueprint editor or 3D modeling software of your choice.
 •	Create a terrain mesh to represent the landscape.
@@ -38,6 +39,7 @@ To Create a landscape, add foliage, apply landscape material
 7.	Fine-tune and iterate:
 •	Review the overall composition, materials, and placement.
 •	Make adjustments as necessary to achieve the desired aesthetic and functionality.
+```
 ## OUTPUT:
 ## Layers Created:
 ![image](https://github.com/Prethiveerajan/Unreal-EX-NO-8-Create-a-landscape-add-foliage-apply-landscape-material/assets/94233064/fa5d51d7-3c04-4450-a54d-a78e319df797)
